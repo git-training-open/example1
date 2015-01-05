@@ -1,0 +1,7 @@
+#! /usr/bin
+
+# Oh dear, I am new to shell programming...
+# I want to type
+#    ./program
+# ..and have it output something.  Can you help me
+echo "That feels about right!"
