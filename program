@@ -1,0 +1,4 @@
+#! /bin/sh
+
+echo "I'd like to think this program would run"
+echo "despite not having tested it"
